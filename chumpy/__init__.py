@@ -8,7 +8,6 @@ from .version import version as __version__
 
 from .version import version as __version__
 
-
 def test():
     from os.path import split
     import unittest
